@@ -45,4 +45,7 @@ Using the equations above, determine the dispersion-limited fiber length.
 <img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/26de6c60-6192-48c2-a2cd-6afff9e52847" />
 
 # Tabulation
+<img width="1202" height="1280" alt="image" src="https://github.com/user-attachments/assets/dce68999-c2b1-40a5-b562-39e7394e602b" />
+
 # Result
+Thus, the dispersion-limited fiber length of the optical fiber transport system is approximately 10 km.
